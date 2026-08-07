@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223353934844",
+    "project_id": "bhagvatidrycleaners",
+    "storage_bucket": "bhagvatidrycleaners.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223353934844:android:39d520f0ff1a971e665879",
+        "android_client_info": {
+          "package_name": "com.example.freshfold_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkaQdmSlhGC0---EN4GxeoOkXUF7BDeWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
